@@ -1,0 +1,4 @@
+baseURL = "https://runoguler.github.io/"
+languageCode = "en-us"
+title = "idea sheet"
+theme = "beautifulhugo"
