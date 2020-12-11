@@ -12,7 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "runoguler"
-googleAnalytics = "G-453C1062V7"
+googleAnalytics = "UA-185352090-1"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -31,7 +31,7 @@ googleAnalytics = "G-453C1062V7"
   delayDisqus = true
   showRelatedPosts = true
 #  hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  gcse = "b3d31e0e057fa8fc7" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
