@@ -1,7 +1,8 @@
 ---
 title: "Dummy Post"
-date: 2020-12-10T15:42:30+09:00
+date: 2020-12-10
 draft: true
+tags: ["dummy", "post"]
 ---
 
 Dummy post about nothing

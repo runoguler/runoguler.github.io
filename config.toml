@@ -11,12 +11,12 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+disqusShortname = "runoguler"
+googleAnalytics = "G-453C1062V7"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Scribbling notes on my free time"
+  subtitle = "Scribbling notes in my free time"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
