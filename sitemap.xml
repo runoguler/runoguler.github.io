@@ -3,26 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://runoguler.github.io/posts/dummy_post/</loc>
-    <lastmod>2020-12-10T15:42:30+09:00</lastmod>
+    <loc>https://runoguler.github.io/page/about/</loc>
+    <lastmod>2020-12-11T09:04:55+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://runoguler.github.io/</loc>
-    <lastmod>2020-12-10T15:42:30+09:00</lastmod>
+    <lastmod>2020-12-11T09:04:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://runoguler.github.io/page/</loc>
+    <lastmod>2020-12-11T09:04:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://runoguler.github.io/tags/dummy/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://runoguler.github.io/posts/dummy_post/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://runoguler.github.io/tags/post/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://runoguler.github.io/posts/</loc>
-    <lastmod>2020-12-10T15:42:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://runoguler.github.io/categories/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://runoguler.github.io/tags/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://runoguler.github.io/categories/</loc>
   </url>
   
 </urlset>
